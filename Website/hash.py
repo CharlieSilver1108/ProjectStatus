@@ -32,5 +32,3 @@ def hash32(content, key=None):
         o[n] = chr(((pow(init_n >> 1, o.count('0'))) % 94) + 33)
     o.reverse()
     return ''.join(o)
-
-(hash32(12345678))
