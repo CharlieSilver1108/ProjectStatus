@@ -47,6 +47,4 @@ function hash32($pwd){
     
 
 }
-
-hash32(12345678);
 ?>
