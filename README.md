@@ -10,6 +10,6 @@ I also created a mobile application for updating whether sixth form students are
 ## Other:
 Throughout the project, the Software Development Lifecycle is documented in the WriteUp.pdf file. This contains detailed descriptions of my Analysis, Design, Implementation, and Testing.
 
-The project is built using HTML, Bootstrap, CSS, JavaScript, PHP, and SQL.
+The project is built using HTML, Bootstrap, CSS, JavaScript, PHP, and SQL. It utilises Procedural Programming, Object-Oriented Programming, Declarative Programming, and Markup.
 
 I hope to update and improve my mobile application now that I have the knowledge of Java (or potentially Kotlin) required for this.
